@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I am Deji
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deji/)
 <!--
 **deji725/deji725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 4-th year undergraduate at Columbia University studying Computer Science. My interests are in back-end development, algorithms, databases, and math. In terms of work experience, I've had 2 Software Engineering Internships focused on Databases.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deji725&hide_border=true)](https://git.io/streak-stats)
