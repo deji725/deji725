@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 I'm a 4-th year undergraduate at Columbia University studying Computer Science. My interests are in back-end development, algorithms, databases, and math.
 
 ### Experience
-- I've had 2 Software Engineering Internships focused on Databases. 
-- I'm also involved with [All Star Code](https://allstarcode.org/), a nonprofit educational organization for teaching computer science to young boys from underrepresented communities
+- I'm involved with [All Star Code](https://allstarcode.org/), a nonprofit educational organization for teaching computer science to young boys from underrepresented communities
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=deji725&hide_border=true)](https://git.io/streak-stats)
